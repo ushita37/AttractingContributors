@@ -9,3 +9,4 @@
 - Boruto
 - Hunter x Hunter
 - 5 Centimeters Per Second
+- NARUTO
