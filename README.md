@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favorite anime song?
+Let's share the anime song that hit you the hardest! 
 
 # List of place
-- mamemame saisai
-- Gusto
+- M@STERPIECE
