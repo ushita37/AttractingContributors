@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# What's your favorite restaurant in japan?
 
 # List of place
-- mamemame saisai
-- Gusto
+- NAIST cafeteria
+- Saizeriya
