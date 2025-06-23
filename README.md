@@ -16,3 +16,5 @@ Please write your favorite number！
 - 42
 - 25
 - 16
+- 4
+- 1
