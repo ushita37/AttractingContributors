@@ -5,4 +5,5 @@ I'd like to know some preferred programming languages from contributors
 - Rust x2
 - Python
 - C++
+- Golang
 - Definitely Python
