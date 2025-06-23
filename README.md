@@ -7,6 +7,7 @@
 - Gold
 - White
 - Black
+- Black and gold (two-tone)
 
 
 ### Good 
