@@ -6,3 +6,4 @@
 - Slay the Spire
 - League of Legends
 - Ace Combat
+- fast food similator
