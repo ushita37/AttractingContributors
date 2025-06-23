@@ -5,6 +5,7 @@
 - Pink
 - Brown
 - Gold
+- White
 
 ### Good 
 -
