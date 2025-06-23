@@ -1,5 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favorite operating system?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of OS
+- Windows
+- Mac
+- Linux
