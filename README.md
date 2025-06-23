@@ -1,7 +1,7 @@
 # Please indicate your best place you have ever traveled.
 
 # List of place
-- Tokyo
 - Nara
+- Tokyo
 - Wakayama, Japan
 - Ishigaki Island
