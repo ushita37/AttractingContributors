@@ -1,12 +1,7 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favorite car?
 
-# List of place
-- Saizeriya
-- KFC
-- Starbucks Cofee
-  
-# List of favorite menus
-- Carbonara
-- Fried chicken
-- Mango Frappuccino
+# List of Cars
+- Honda Civic
+- Toyota GR Supra
+- 
   
