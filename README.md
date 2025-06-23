@@ -6,3 +6,4 @@ I'd like to know some preferred programming languages from contributors
 - Python
 - TypeScript
 - C++
+- Golang
