@@ -4,6 +4,7 @@
 - Attack on Titan
 - Your Name (Kimi no Na wa)
 - Violet Evergarden
+- Boruto
 - Hunter x Hunter
 - 5 Centimeters Per Second
 
