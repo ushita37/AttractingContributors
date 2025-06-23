@@ -5,3 +5,6 @@ Let's share the anime song that hit you the hardest!
 - M@STERPIECE
 - Fatal
 - Yukyo Seishun Ka
+- A Cruel Angel's Thesis
+- FLY HIGH!!
+- Butter-Fly
