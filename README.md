@@ -1,4 +1,5 @@
 # What is your favorite car?
+I currently own a Honda Civic, but what do you think would be a good next car for me?
 
 # List of Cars
 - Honda Civic
