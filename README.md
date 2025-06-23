@@ -1,4 +1,4 @@
-# What is your favorite operating system?
+# What is your favorite word?
 
 # List of OS
 - Windows
