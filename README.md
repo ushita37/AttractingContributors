@@ -2,7 +2,11 @@
 
 # List of place
 - Saizeriya
-- 
-- 
+- KFC
+- Starbucks Cofee
+  
 # List of favorite menus
 - Carbonara
+- Fried chicken
+- Mango Frappuccino
+  
