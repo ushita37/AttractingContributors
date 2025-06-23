@@ -1,6 +1,6 @@
 # What's your favorite restaurant in japan?
-
-# List of place
+ Example:
 - NAIST cafeteria
 - Saizeriya
+# List of place
 - Ano Ramen Seisakujo
