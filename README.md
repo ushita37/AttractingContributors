@@ -5,3 +5,7 @@
 - Your Name (Kimi no Na wa)
 - Violet Evergarden
 - Kusuriya no Hitorigoto
+- ONE PIECE
+- Boruto
+- Hunter x Hunter
+- 5 Centimeters Per Second
