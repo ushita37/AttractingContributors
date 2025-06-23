@@ -2,3 +2,4 @@
 
 # List of games
 - Slay the Spire
+- League of Legends
