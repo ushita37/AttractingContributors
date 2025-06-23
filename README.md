@@ -2,3 +2,8 @@
 
 # List of place
 - Izu Peninsula
+- Nara
+- Tokyo
+- Wakayama, Japan
+- Ishigaki Island
+
