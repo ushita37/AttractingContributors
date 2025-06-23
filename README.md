@@ -1,5 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite places to eat something sweet near NAIST.
 
 # List of place
-- mamemame saisai
-- Gusto
+- GEBECK in Kita Ikoma
+- IKOMA GOURMET STAND DONUTS SHOP
+- 
