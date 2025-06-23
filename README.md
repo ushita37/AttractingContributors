@@ -4,7 +4,7 @@
 - Saizeriya
 # List of place
 - Ano Ramen Seisakujo
--
+- Sawayaka (hamburger restaurant in Shizuoka)
 -
 -
 -
