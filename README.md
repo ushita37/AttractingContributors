@@ -4,3 +4,4 @@
 - Windows
 - Mac
 - Linux
+- Parrot OS
