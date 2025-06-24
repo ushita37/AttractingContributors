@@ -5,4 +5,5 @@
 - ラーメン人生JET
 - Mendoukaori/麺堂香
 - Tenka Dai ichi/天下第一
+- ぐり虎 Ocean Club
 
