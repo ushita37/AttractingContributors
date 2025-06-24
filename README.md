@@ -9,3 +9,4 @@
 - nasubi
 - tofu
 - wakame
+- egg
