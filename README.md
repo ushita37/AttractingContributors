@@ -8,4 +8,4 @@
 - tofu
 - nasubi
 - tofu
-- 
+- wakame
