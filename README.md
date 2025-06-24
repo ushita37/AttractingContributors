@@ -3,3 +3,6 @@
 # List of place
 - Tontoro/豚とろ
 - ラーメン人生JET
+- Mendoukaori/麺堂香
+- Tenka Dai ichi/天下第一
+
