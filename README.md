@@ -10,3 +10,5 @@
 - tofu
 - wakame
 - egg
+- wakame
+- pineapple
