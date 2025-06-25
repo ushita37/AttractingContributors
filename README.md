@@ -10,3 +10,4 @@
 - tofu
 - wakame
 - wakame
+- pineapple
