@@ -3,4 +3,5 @@
 # List of place
 - GEBECK in Kita Ikoma
 - IKOMA GOURMET STAND DONUTS SHOP
-- Wa in Care nagomi
+- McDonald's
+- Wa in Cafe nagomi
