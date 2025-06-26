@@ -4,4 +4,5 @@
 - GEBECK in Kita Ikoma
 - IKOMA GOURMET STAND DONUTS SHOP
 - McDonald's
+- Wa in Cafe nagomi
 - NARA family
