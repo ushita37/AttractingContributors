@@ -10,3 +10,4 @@
 - Ramen tohhichi/らぁ麺 とうひち
 - Musashi /武蔵家
 - ジャンク屋　哲
+- 麺屋ばってん親父
