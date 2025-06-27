@@ -9,3 +9,4 @@
 - Jinrui Mina Menrui/人類みな麺類
 - Ramen tohhichi/らぁ麺 とうひち
 - Musashi /武蔵家
+- ジャンク屋　哲
