@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# What field of research do you want to do?
 
 # List of place
-- mamemame saisai
-- Gusto
+- How to operate a stable computer-network
