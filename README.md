@@ -17,3 +17,4 @@ Every Language is OK.
 - How to operate a stable computer-network
 - Soft Robotics
 - electromagnetic radiation
+- LLM
