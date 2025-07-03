@@ -16,3 +16,4 @@
 - Arima Onsen
 - Mt.Koya
 - Sakae (Nagoya)
+- Seki(Gifu)
