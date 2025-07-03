@@ -18,3 +18,4 @@ Every Language is OK.
 - Soft Robotics
 - electromagnetic radiation
 - LLM
+- architecture informatique
