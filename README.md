@@ -15,4 +15,3 @@ Every Language is OK.
 ## List of place
 - 自然言語処理
 - How to operate a stable computer-network
-- Soft Robotics
