@@ -16,4 +16,5 @@
 - Arima Onsen
 - Mt.Koya
 - Sakae (Nagoya)
+- Harbor land(Hyogo, Kobe)
 - Seki(Gifu)
